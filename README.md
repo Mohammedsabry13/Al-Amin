@@ -1,5 +1,8 @@
 # AMIN — Al-Amin Foreign Trade Website
 
+⚠️ This template was originally created by Mohammed Sabry
+credit is required: github.com/Mohammedsabry13
+
 A fully Arabic RTL corporate website for **شركة الأمين للتجارة الخارجية**, a Turkish products import/export company serving the Gulf Arab countries and North Africa under the "Rock" brand.
 
 ## 🛠️ Tech Stack

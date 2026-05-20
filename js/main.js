@@ -1,3 +1,9 @@
+/*
+  Copyright (c) 2024 Mohammed Sabry
+  Licensed under the MIT License.
+  https://github.com/Mohammedsabry13
+*/
+
 $(".owl-carousel").owlCarousel({
   loop: true,
   margin: 30,
