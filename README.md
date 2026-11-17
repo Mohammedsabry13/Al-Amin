@@ -1,5 +1,7 @@
 # AMIN — Al-Amin Foreign Trade Website
 
+![Screenshot](screenshot.png)
+
 ⚠️ This template was originally created by Mohammed Sabry
 credit is required: github.com/Mohammedsabry13
 
